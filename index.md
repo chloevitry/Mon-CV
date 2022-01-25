@@ -3,7 +3,7 @@
 # Chloé Vitry
 Étudiante en Master Communication Corporate à Rouen
 
-chloevitry110@gmail.com - 06 95 30 97 40
+chloevitry110@gmail.com - 06 XX XX XX XX
 
 Mon profil LinkedIn : [Chloé Vitry](https://www.linkedin.com/in/chloé-vitry-91538b177/).
 
