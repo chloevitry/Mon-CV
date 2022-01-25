@@ -5,6 +5,8 @@
 
 chloevitry110@gmail.com - 06 95 30 97 40
 
+Mon profil LinkedIn [Markdown Live Preview](https://www.linkedin.com/in/chloé-vitry-91538b177/).
+
 # Formations
 
 * **2021/2023** : Master Communication Corporate et RSE - *ISD Flaubert*, Rouen
