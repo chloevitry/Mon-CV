@@ -1,4 +1,4 @@
-![chloe.jpeg](/image/chloe.jpeg "Chloe Vitry.")
+![chloe.jpeg](https://github.com/chloevitry/Mon-CV/blob/00de9b2b15fe5cdc17e90181630a58a98d8ccfff/chloe.jpeg "Chloe Vitry.")
 
 # Chloé Vitry
 Étudiante en Master Communication Corporate à Rouen
