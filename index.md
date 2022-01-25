@@ -1,4 +1,4 @@
-![This is a alt text.](/image/chloe.jpg "Chloe Vitry.")
+![chloe.jpeg](/image/chloe.jpeg "Chloe Vitry.")
 
 # Chloé Vitry
 Étudiante en Master Communication Corporate à Rouen
