@@ -5,7 +5,7 @@
 
 chloevitry110@gmail.com - 06 95 30 97 40
 
-Mon profil LinkedIn [Markdown Live Preview](https://www.linkedin.com/in/chloé-vitry-91538b177/).
+Mon profil LinkedIn : [Chloé Vitry](https://www.linkedin.com/in/chloé-vitry-91538b177/).
 
 # Formations
 
