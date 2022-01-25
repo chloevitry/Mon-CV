@@ -1,4 +1,4 @@
-![Chloé Vitry.](/image/chloe.jpeg "This is a sample image.")
+![chloe Vitry.](/image/chloe.jpeg "This is a sample image.")
 
 # Chloé Vitry
 Étudiante en Master Communication Corporate à Rouen
